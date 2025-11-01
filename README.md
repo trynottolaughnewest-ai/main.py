@@ -1,1 +1,1 @@
-# main.py
+# telegram-bot
