@@ -1,3 +1,4 @@
+imghdr
 requests
 beautifulsoup4
 python-telegram-bot==13.15
